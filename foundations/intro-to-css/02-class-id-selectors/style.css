@@ -1,0 +1,15 @@
+.oddp {
+background-color: rgb(216, 112, 147);
+font-family: Verdana, dejavu, sans-serif;
+}
+
+#secondelem {
+    color: rgb(0, 0, 255);
+font-size: 36px;
+}
+
+#fourthelem {
+    background-color: rgb(0, 128, 0);
+    font-size: 24px;
+    font-weight: bold;
+}
